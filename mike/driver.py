@@ -73,7 +73,7 @@ Start the development server, serving pages from the target branch.
 """
 
 generate_completion_desc = """
-Generate shell-completion functions for bfg9000 and write them to standard
+Generate shell-completion functions for mike and write them to standard
 output. This requires the Python package `shtab`.
 """
 
